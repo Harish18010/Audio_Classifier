@@ -4,7 +4,7 @@ This project uses a Convolutional Neural Network (CNN) to automatically classify
 
 ## Dataset
 
-I used the datase UrbanSound8K from kaggle : [Dataset](https://www.kaggle.com/datasets/chrisfilo/urbansound8k). All rights belong to the original authors.
+I used the dataset UrbanSound8K from kaggle : [Dataset](https://www.kaggle.com/datasets/chrisfilo/urbansound8k). All rights belong to the original authors.
 
 ## Description
 
